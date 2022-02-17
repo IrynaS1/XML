@@ -1,2 +1,8 @@
 <?xml version="1.0"?>
-<bug>1</bug>
+<bug_report>
+  <ID>2</ID>
+  <summary>Не отображается логотип</summary>
+  <stepsToReproduce> 1. Зайти на сайт. 2. Найти логотип на странице </stepsToReproduce>
+  <expectedResult>На странице отображается логотип</expectedResult>
+  <actualResult>На странице не отображается логотип</actualResult>
+</bug_report>
